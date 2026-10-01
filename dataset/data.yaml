@@ -1,0 +1,8 @@
+# YOLO11 Dataset Configuration for H2S Sensing Strip & Reference Scale
+path: ./dataset
+train: images/train
+val: images/val
+
+names:
+  0: test_strip
+  1: reference_scale

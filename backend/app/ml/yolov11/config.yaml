@@ -1,0 +1,9 @@
+# YOLO11 Configuration for Dynamic H2S Sensing Wristband Localization
+path: ./dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: test_strip
+  1: reference_scale
